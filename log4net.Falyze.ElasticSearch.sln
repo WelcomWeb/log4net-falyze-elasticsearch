@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.Falyze.ElasticSearch", "log4net.Falyze.ElasticSearch\log4net.Falyze.ElasticSearch.csproj", "{4331A08A-5AFF-4611-A508-618454FF1F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.Falyze.ElasticSearch.Net40", "log4net.Falyze.ElasticSearch.Net40\log4net.Falyze.ElasticSearch.Net40.csproj", "{A9EE0E2D-C3EF-42F1-8518-A8052562C1C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.Falyze.ElasticSearch.Net45", "log4net.Falyze.ElasticSearch.Net45\log4net.Falyze.ElasticSearch.Net45.csproj", "{BA5F0379-6781-4F9E-84C1-E4511E1888EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.Falyze.ElasticSearch.Net40-client", "log4net.Falyze.ElasticSearch.Net40-client\log4net.Falyze.ElasticSearch.Net40-client.csproj", "{74A69239-CD71-41F3-A724-43FAC1067BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4331A08A-5AFF-4611-A508-618454FF1F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4331A08A-5AFF-4611-A508-618454FF1F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4331A08A-5AFF-4611-A508-618454FF1F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4331A08A-5AFF-4611-A508-618454FF1F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EE0E2D-C3EF-42F1-8518-A8052562C1C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EE0E2D-C3EF-42F1-8518-A8052562C1C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EE0E2D-C3EF-42F1-8518-A8052562C1C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EE0E2D-C3EF-42F1-8518-A8052562C1C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5F0379-6781-4F9E-84C1-E4511E1888EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5F0379-6781-4F9E-84C1-E4511E1888EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5F0379-6781-4F9E-84C1-E4511E1888EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5F0379-6781-4F9E-84C1-E4511E1888EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A69239-CD71-41F3-A724-43FAC1067BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A69239-CD71-41F3-A724-43FAC1067BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A69239-CD71-41F3-A724-43FAC1067BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A69239-CD71-41F3-A724-43FAC1067BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
