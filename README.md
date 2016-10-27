@@ -1,6 +1,5 @@
 # log4net.Falyze.ElasticSearch
 
-[![Build Status](https://travis-ci.org/WelcomWeb/log4net.Falyze.ElasticSearch.svg?branch=master)](https://travis-ci.org/WelcomWeb/log4net.Falyze.ElasticSearch)
 [![NuGet version](https://badge.fury.io/nu/log4net.Falyze.ElasticSearch.svg)](https://badge.fury.io/nu/log4net.Falyze.ElasticSearch)
 
 A simple log4net appender for Elastic Search, creating readable and customizable index documents.
